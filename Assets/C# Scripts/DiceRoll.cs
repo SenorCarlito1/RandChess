@@ -75,7 +75,6 @@ public class DiceRoll : MonoBehaviour
     }
     void OnMouseDown()
     {
-        Debug.Log("2D object clicked.");
         RollDice();
     }
 }
